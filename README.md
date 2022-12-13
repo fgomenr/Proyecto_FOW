@@ -13,3 +13,9 @@ BUENAS PRACTICAS
 · Hemos agrupado los selectores CSS
 · Hemos utilizado hojas de css externas 
 · Usamos valores relativos
+
+
+HERRAMIENTAS CSS
+
+·Hemos usado el validador de css
+·Hemos usado CSS Linters
